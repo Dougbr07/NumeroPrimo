@@ -1,4 +1,2 @@
 # NumeroPrimo
 
-
-thevalter = Jesus
